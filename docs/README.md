@@ -5,7 +5,7 @@
 まずはここから
 
 1. [仲間の集め方](teammates.md)
-1. 簡単な進め方
-1. 拠点の作り方
+1. [簡単な進め方](progress1.md)
+1. [拠点の作り方](base_build/buildbase.md)
 
 [筆者のホームページ](https://www.icecream2015p.com/)
